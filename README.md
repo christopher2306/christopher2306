@@ -6,7 +6,7 @@ I'm an enthusiast in the area of ​​web development, I'm thirsty to learn sev
 ### Abstract
 
 - 💻 Sofware Engineer Student.
-- :rocket: Technologies: JavaScript, HTML, CSS, MySql, Python and much more.
+- :rocket: Technologies: JavaScript, HTML, CSS, MySql, Python, C#, C++ and much more.
 
 
 
